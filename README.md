@@ -6,7 +6,7 @@
 
 ![iOS Version](https://img.shields.io/badge/iOS-15.0+-blue?style=flat&logo=apple)
 ![Swift Version](https://img.shields.io/badge/Swift-5.5-orange?style=flat&logo=swift)
- [![latronixo](https://img.shields.io/badge/latronixo1-181717?style=flat&logo=github&logoColor=white)](https://github.com/latronixo1)
+ [![latronixo](https://img.shields.io/badge/latronixo-181717?style=flat&logo=github&logoColor=white)](https://github.com/latronixo)
  [![Julia4723](https://img.shields.io/badge/Julia4723-181717?style=flat&logo=github&logoColor=white)](https://github.com/Julia4723)
  [![boytik](https://img.shields.io/badge/boytik-181717?style=flat&logo=github&logoColor=white)](https://github.com/boytik)
  [![AlexCoder13](https://img.shields.io/badge/AlexCoder13-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlexCoder13)
